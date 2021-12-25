@@ -3,7 +3,7 @@
 	"name": "Text-to-Speech Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "This is a simple text-to-speech plugin.",
+	"description": "This is a simple text-to-speech plugin which uses the Chromium's SpeechSynthesis API.",
 	"author": "brainoverflow98",
 	"authorUrl": "https://github.com/brainoverflow98",
 	"isDesktopOnly": false
