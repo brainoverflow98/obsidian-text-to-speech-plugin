@@ -1,0 +1,10 @@
+{
+	"id": "text-to-speech-plugin",
+	"name": "Text-to-Speech Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "This is a simple text-to-speech plugin.",
+	"author": "brainoverflow98",
+	"authorUrl": "https://github.com/brainoverflow98",
+	"isDesktopOnly": false
+}
